@@ -1,2 +1,2 @@
-twython==3.9.1
+twython==3.9.0
 pytz==2019.3
